@@ -1,4 +1,3 @@
-# Devendu
 # Hi, I'm Devendu 👋 Backend Engineer | Spring Boot | Kafka | AWS 
 ## 📌 Featured Projects
 - **Ecommerce Backend** – Spring Boot + Kafka + Docker
