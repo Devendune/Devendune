@@ -10,3 +10,5 @@
 - ☁️ AWS (EC2, S3, RDS, IAM)
 - 🛠️ Docker, Git, Postman
 - 🌐 React
+
+https://github-readme-stats.vercel.app/api?username=devendune&show_icons=true&theme=radical
