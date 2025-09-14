@@ -11,4 +11,4 @@
 - 🛠️ Docker, Git, Postman
 - 🌐 React
 
-https://github-readme-stats.vercel.app/api?username=devendune&show_icons=true&theme=radical
+![Devendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devendune&show_icons=true&theme=radical)
