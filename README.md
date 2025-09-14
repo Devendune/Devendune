@@ -1,6 +1,12 @@
 # Devendu
 # Hi, I'm Devendu 👋 Backend Engineer | Spring Boot | Kafka | AWS | Cloud-Native Architect
 ## 📌 Featured Projects
-- **Ecommerce Backend** – Spring Boot + Kafka + AWS
+- **Ecommerce Backend** – Spring Boot + Kafka + Docker
 - **Async Order Service** – Kafka consumer/producer with retry logic
-- **Resume Optimizer** – Full-stack app for job seekers
+- **Patient Management** – Patient Management system to manage patients
+  
+### 🧰 Tech Stack
+- 💻 Java, Spring Boot, Kafka
+- ☁️ AWS (EC2, S3, RDS, IAM)
+- 🛠️ Docker, Git, Postman
+- 🌐 React
